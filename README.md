@@ -1,7 +1,7 @@
-![logo](https://github.com/insomniacParas19/insomniacParas19/upload/main/githubbanner.png)
-# 💫 About Me:
-I'm currently learning JAVA, Angular
-
+![logo](https://github.com/insomniacParas19/insomniacParas19//githubbanner.png)
+<h1 align="center">Hi 👋, I'm Puran Bam</h1>
+<h3 align="center">A passionate web developer and designer from Nepal.</h3>
+<h4 align="center">I'm currently learning JAVA, Angular.> </h4>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/puran558) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insomniacparas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://np.linkedin.com/in/puranbam) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/insoxprs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@insoxprs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@puranbam5099) 
