@@ -1,4 +1,4 @@
-![logo](https://github.com/insomniacParas19/insomniacParas19/upload/main)githubbanner.png)
+![logo](https://github.com/insomniacParas19/insomniacParas19/upload/main/githubbanner.png)
 # 💫 About Me:
 I'm currently learning JAVA, Angular
 
