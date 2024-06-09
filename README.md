@@ -1,4 +1,4 @@
-![logo](https://github.com/insomniacParas19/insomniacParas19//githubbanner.png)
+![logo](https://github.com/insomniacParas19/insomniacParas19/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Puran Bam</h1>
 <h3 align="center">A passionate web developer and designer from Nepal.</h3>
 <h4 align="center">I'm currently learning JAVA, Angular.> </h4>
